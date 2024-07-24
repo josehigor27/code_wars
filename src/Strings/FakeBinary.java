@@ -25,6 +25,9 @@ public class FakeBinary {
 		
 		FakeBinary solution = new FakeBinary();
 		System.out.println(solution.fakeBin("55226611"));
+
+		Integer teste;
+		System.out.println("variavel teste");
 		
 		
 
